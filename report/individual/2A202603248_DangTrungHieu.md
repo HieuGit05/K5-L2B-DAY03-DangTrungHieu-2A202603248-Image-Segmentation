@@ -53,6 +53,5 @@ Mỗi ca là một **vùng cụ thể** khiến bạn phải cân nhắc hai cá
 
 | Ảnh/vị trí | Hai cách hiểu có thể | Quy tắc/chứng cứ | Quyết định hoặc câu hỏi cho coach |
 | --- | --- | --- | --- |
-| 1 | … | … | … |
-| 2 | … | … | … |
-| 3 | … | … | … |
+| 000000144300.jpg | nhầm giữa các xe car, truck, bus | xe bus sẽ là xe nhiều cửa sổ ở đuôi có kính to, xe truck là xe trở hàng | vẽ bus cho xe ở sau xe máy, và vẽ xe truck cho sau xe bus đó |
+
